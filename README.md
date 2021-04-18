@@ -1,1 +1,2 @@
-# project-42-TICK-TOCK-CLOCK
+# p5.play-boilerplate
+Boiler plate for p5.play
